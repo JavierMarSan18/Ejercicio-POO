@@ -1,0 +1,16 @@
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 5\Estudiantes\bin\Debug\net5.0\Estudiantes.exe
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 5\Estudiantes\bin\Debug\net5.0\Estudiantes.deps.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 5\Estudiantes\bin\Debug\net5.0\Estudiantes.runtimeconfig.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 5\Estudiantes\bin\Debug\net5.0\Estudiantes.runtimeconfig.dev.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 5\Estudiantes\bin\Debug\net5.0\Estudiantes.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 5\Estudiantes\bin\Debug\net5.0\ref\Estudiantes.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 5\Estudiantes\bin\Debug\net5.0\Estudiantes.pdb
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 5\Estudiantes\obj\Debug\net5.0\Estudiantes.csprojAssemblyReference.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 5\Estudiantes\obj\Debug\net5.0\Estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 5\Estudiantes\obj\Debug\net5.0\Estudiantes.AssemblyInfoInputs.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 5\Estudiantes\obj\Debug\net5.0\Estudiantes.AssemblyInfo.cs
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 5\Estudiantes\obj\Debug\net5.0\Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 5\Estudiantes\obj\Debug\net5.0\Estudiantes.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 5\Estudiantes\obj\Debug\net5.0\ref\Estudiantes.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 5\Estudiantes\obj\Debug\net5.0\Estudiantes.pdb
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 5\Estudiantes\obj\Debug\net5.0\Estudiantes.genruntimeconfig.cache
